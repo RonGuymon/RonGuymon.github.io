@@ -367,6 +367,9 @@ nav.site-nav a {
   border-radius: 999px;
 }
 
+.interests-media { background: #0a0e1a; }
+.interests-media svg { cursor: default; display: block; }
+
 .note-box {
   border-left: 3px solid var(--highlight);
   background: color-mix(in srgb, var(--highlight) 8%, transparent);
